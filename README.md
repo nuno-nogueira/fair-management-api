@@ -19,11 +19,6 @@ The platform is designed around two main types of users:
 - product and vendor associations;
 - notifications when a fair is about to start;
 
-![Splash Screen](screenshots/app-splashscreen.png)
-![Vendor Profile](screenshots/vendor-profile.png)
-![Fair Page Info](screenshots/fair-page-info.png)
-![Rouute Showcase](screenshots/route-showcasing.png)
-
 ## 🧩 Microservices
 
 👤 Users Service
